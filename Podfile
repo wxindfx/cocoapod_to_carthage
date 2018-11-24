@@ -5,6 +5,6 @@ use_frameworks!
 
 target 'GetPod' do
 
- 
+    pod 'FMDB/SQLCipher', '2.7.5' 
     
 end
